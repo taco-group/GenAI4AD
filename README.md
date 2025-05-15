@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="figures/word_cloud.png" width="80%">
+</p>
+
 # Generative AI for Autonomous Driving
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 [![arXiv](https://img.shields.io/badge/arXiv-2505.08854-<COLOR>.svg)](https://arxiv.org/abs/2505.08854)
 
 <p align="center">
-  <img src="figures/word_cloud.png" width="100%">
+  <img src="figures/EpochofGenerativeFoundationModels.png" width="100%">
 </p>
 
 We welcome anyone to contribute to this repository. Please raise issues or pull requests for any missing papers, datasets, or methods. We will update the repository regularly.
