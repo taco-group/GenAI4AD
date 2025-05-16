@@ -88,6 +88,7 @@ We welcome anyone to contribute to this repository. Please raise issues or pull 
 | [Shift (2022)](https://github.com/SysCV/shift-detection-tta)                                        | CARLA                | Multiple Views       | ✅    | ✅     | Weather, Lighting Simulation      |
 | [DeepAccident (2023)](https://deepaccident.github.io/)                                              | CARLA                | Multiple Views       | ✅    | ✅     | Accident Scene Simulation         |
 | [WARM-3D (2024)](https://warm-3d.github.io)                                                   | CARLA                | Monocular       |      | ✅     | Sim2Real Transfer         |
+| [SimBEV (2025)](https://github.com/GoodarzMehr/SimBEV)                                              | CARLA                | Multiple Views       |  ✅   |      | BEV Segmentation                  |
 
 ## Language-Based Datasets
 
