@@ -114,6 +114,8 @@ We welcome anyone to contribute to this repository. Please raise issues or pull 
 
 | Method | Venue | Dataset | Modeling Type | Backbone | Control Variables |
 |:---|:---|:---|:---|:---|:---|
+| [GeoDiffusion](https://arxiv.org/abs/2306.04607) | ICLR'24 | nuScenes, COCO-Stuff | Diffusion, VAE | U-Net | Object Box, Camera Pose |
+| [DetDiffusion](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_DetDiffusion_Synergizing_Generative_and_Perceptive_Models_for_Enhanced_Data_Generation_CVPR_2024_paper.html) | CVPR'24 | COCO-Stuff | Diffusion, VAE | U-Net | Object Box, Perception |
 | [BEVGen](https://github.com/alexanderswerdlow/BEVGen) | IEEE RA-L'24 | nuScenes, Argoverse 2 | VQ-VAE | Transformer | BEV Map, Object Box, Text |
 | [BEVControl](https://arxiv.org/abs/2308.XXXX) | arXiv'23 | nuScenes | VAE | CNN, Transformer, CLIP | BEV Sketch, Text |
 | [MagicDrive](https://github.com/cure-lab/MagicDrive) | ICLR'24 | nuScenes | Diffusion, VAE | U-Net | Road Map, Object Box, Camera Pose |
