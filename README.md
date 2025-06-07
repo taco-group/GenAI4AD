@@ -240,6 +240,8 @@ We welcome anyone to contribute to this repository. Please raise issues or pull 
 | [DrivingWorld](https://github.com/YvanYin/DrivingWorld) | ArXiv'24 | AR | Transformer, GPT | 400 | 10 | IJ | ✅ |  | Github |
 | [Doe-1](https://github.com/wzzheng/Doe) | ArXiv'24 | N/A | N/A | - | 2 | ITJ | ✅ | ✅ | Github |
 | [ChatSim](https://github.com/yifanlu0227/ChatSim) | CVPR'24 | Agent | N/A | 40 | 10 | IT |  | ✅ | Github |
+| ProphetDWM | ArXiv'25 | Diffusion | U-Net | 10 | 4 | ITA |  |  | N/A |
+| [LongDWM](https://github.com/Wang-Xiaodong1899/Long-DWM) | ArXiv'25 | Diffusion | Transformer | 13 | 10 | ITJ |  |  | Github |
 
 ## 3D/4D Generation Methods
 
