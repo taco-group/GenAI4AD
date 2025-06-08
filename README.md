@@ -241,8 +241,9 @@ We welcome anyone to contribute to this repository. Please raise issues or pull 
 | [Doe-1](https://github.com/wzzheng/Doe) | ArXiv'24 | N/A | N/A | - | 2 | ITJ | ✅ | ✅ | Github |
 | [ChatSim](https://github.com/yifanlu0227/ChatSim) | CVPR'24 | Agent | N/A | 40 | 10 | IT |  | ✅ | Github |
 | ProphetDWM | ArXiv'25 | Diffusion | U-Net | 10 | 4 | ITA |  |  | N/A |
-| [LongDWM](https://github.com/Wang-Xiaodong1899/Long-DWM) | ArXiv'25 | Diffusion | Transformer | 13 | 10 | ITJ |  |  | Github |
+| [LongDWM](https://github.com/Wang-Xiaodong1899/Long-DWM)* | ArXiv'25 | Diffusion | Transformer | 13 | 10 | ITJ |  |  | Github |
 
+*: Not released as of June.2025.
 ## 3D/4D Generation Methods
 
 > **Note:**  
