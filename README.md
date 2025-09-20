@@ -130,7 +130,6 @@ We welcome anyone to contribute to this repository. Please raise issues or pull 
 | HoloDrive | arXiv'24 | nuScenes | VAE, Diffusion | U-Net, Attention | Text, 2D Layout |
 | [WeatherDG](https://github.com/Jumponthemoon/WeatherDG) | arXiv'24 | Cityscapes | Diffusion, LLM | VAE, U-Net | Text |
 | [UrbanArchitect](https://github.com/UrbanArchitect/UrbanArchitect) | arXiv'24 | nuScenes | Diffusion, ControlNet | VAE | Text, 3D Layout |
-| [FSDrive](https://arxiv.org/abs/2505.17685) | NeurIPS'25 | nuScenes | Autoregressive,LLM,GAN | Transformer | Object Box, Lane divider, Text |
 
 ### Decompositional Generation
 
