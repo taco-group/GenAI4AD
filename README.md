@@ -130,6 +130,7 @@ We welcome anyone to contribute to this repository. Please raise issues or pull 
 | HoloDrive | arXiv'24 | nuScenes | VAE, Diffusion | U-Net, Attention | Text, 2D Layout |
 | [WeatherDG](https://github.com/Jumponthemoon/WeatherDG) | arXiv'24 | Cityscapes | Diffusion, LLM | VAE, U-Net | Text |
 | [UrbanArchitect](https://github.com/UrbanArchitect/UrbanArchitect) | arXiv'24 | nuScenes | Diffusion, ControlNet | VAE | Text, 3D Layout |
+| [FSDrive](https://arxiv.org/abs/2505.17685) | NeurIPS'25 | nuScenes | Autoregressive,LLM,GAN | Transformer | Object Box, Lane divider, Text |
 
 ### Decompositional Generation
 
@@ -201,6 +202,7 @@ We welcome anyone to contribute to this repository. Please raise issues or pull 
 | DJINN | NeurIPS'23 | INTERACTION | Diffusion | Transformer |
 | Scenario Diffusion | NeurIPS'23 | AV2 | Diffusion | UNet |
 | BehaviorGPT | NeurIPS'25 | WOMD | Autoregressive | Transformer |
+| [FSDrive](https://arxiv.org/abs/2505.17685) | NeurIPS'25 | nuScenes | Autoregressive,LLM,VLA | Transformer | 
 
 ## 3D Occupancy Generation Methods
 
@@ -319,7 +321,7 @@ We welcome anyone to contribute to this repository. Please raise issues or pull 
 | DriveVLM | CoRL'24 | Fine-tuning | Planning | E2E | Qwen-V | CoT | Instruction, DS (Video) | Action, Trajectory | N/A |
 | EMMA | ArXiv'24 | Fine-tuning | Planning | E2E | Gemini 1.0 Nano-1 | CoT | Instruction, DS (MVF) | Object, Action, Trajectory | N/A |
 | [OpenEMMA](https://github.com/taco-group/OpenEMMA) | WACV'25 | Prompting | Planning | E2E | General MLLMs | CoT | Instruction, DS (Image) | Object, Action, Trajectory | Github |
-
+| [FSDrive](https://github.com/MIV-XJTU/FSDrive) | NeurIPS'25 | Fine-tuning | Planning | E2E | Qwen2-VL 2B | Visual CoT| Instruction, DS (MVF)|  Future Frame,Trajectory|[Github](https://github.com/MIV-XJTU/FSDrive) |
 
 # Citation
 If you find this repository useful for your research, please consider citing the following paper:
